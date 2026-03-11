@@ -3,7 +3,7 @@ AI Clinical Knowledge Assistant
 
 ## 1. Project overview
 
-### Working title
+###  title
 
 **AI Clinical Knowledge Assistant**
 
