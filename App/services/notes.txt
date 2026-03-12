@@ -1,0 +1,9 @@
+Important note
+
+Your current chunker is character-based, which is fine for MVP. Later, for better medical retrieval quality, you should upgrade to:
+
+heading-aware chunking
+
+token-based chunking
+
+table-aware extraction
